@@ -1,2 +1,7 @@
-def my_each
+def my_each(collection)
+  
+  
+  
+  
+  
 end
